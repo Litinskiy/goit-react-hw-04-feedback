@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const FeedbackBtn = styled.button`
-margin-right: 20px;
+margin-right: 19px;
 cursor: pointer;transform: capitalize;
 text-transform: capitalize;
 
